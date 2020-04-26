@@ -1,4 +1,4 @@
-<!-- # SNAKE GAME -->
+# SNAKE GAME
 
 > Its a Simple game Desiged
 
