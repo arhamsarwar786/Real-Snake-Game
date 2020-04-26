@@ -8,6 +8,6 @@ for the Development Of _(2D)_ Snake Game
 
 <!-- ![Game](game.png =250x) -->
 
-<img src="game.png" width="250" height="100">
+<img src="game.png" width="500" height="100">
 
 
